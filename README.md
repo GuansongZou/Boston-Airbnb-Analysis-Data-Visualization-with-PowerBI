@@ -41,7 +41,7 @@ After diving deep into the datasets, the business questions came across, which w
 
 
 
-5. Overall rating score vs. Price per night:
+5. Overall rating score vs. Price per night. It can be seen here that most accomendations are ranged between $0 and $500 in price, and between 80 and 100 in review scores. The high-end (>$1000 per night) accomendations scored extremely high in ratings. In contrast, The low-end (>$500 per night) accomendations scored extremely low in ratings.
 <img width="600" alt="Screenshot 2023-06-24 at 10 14 40" src="https://github.com/GuansongZou/Boston-Airbnb-Analysis-Data-Visualization-with-PowerBI/assets/127778771/fe30febe-6abd-44bb-8b7c-627c54542c11">
 
 6. Amenities such as AirCon, Parking, Kitchen, and Gym all have an impact on the average price per night, for instance, the price for an accomendation with an aircon almost doubles the price of an accomendation without an aircon:
